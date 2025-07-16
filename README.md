@@ -1,1 +1,1 @@
-<marquee ><h1>HTML INJENCTION</h1></marquee>
+<button onClick="alert('xss')">Submit</button>
