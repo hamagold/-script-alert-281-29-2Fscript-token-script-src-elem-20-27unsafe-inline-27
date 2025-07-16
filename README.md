@@ -1,1 +1,1 @@
-${prompt(1877)}
+<button onclick="window.location.href='https://example.com'">Click me (safe test)</button>
